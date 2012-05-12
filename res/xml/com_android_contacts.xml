@@ -15,6 +15,8 @@
     <item name="drawable/list_pressed_holo">@drawable/com_android_contacts_list_pressed_holo</item>
     <item name="drawable/list_pressed_holo_light">@drawable/com_android_contacts_list_pressed_holo_light</item>
     <item name="drawable/list_section_divider_holo_custom">@drawable/com_android_contacts_list_section_divider_holo_custom</item>
+    <item name="mipmap/ic_launcher_phone">@mipmap/com_android_contacts_ic_launcher_phone</item>
+    <item name="mipmap/ic_launcher_contacts">@mipmap/com_android_contacts_ic_launcher_contacts</item>
     <item name="color/quickcontact_tab_indicator">@color/arcee_maincolor</item>
     <item name="color/call_log_voicemail_highlight_color">@color/arcee_maincolor</item>
     <item name="color/people_app_theme_color">@color/arcee_maincolor</item>

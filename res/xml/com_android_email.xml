@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="mipmap/ic_launcher_email">@drawable/com_android_settings_ic_launcher_email</item>
+</resource-redirections>
