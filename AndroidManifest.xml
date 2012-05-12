@@ -18,14 +18,14 @@
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
-    package="com.tmobile.theme.holored"
+    package="com.tmobile.theme.icered"
     android:hasCode="false">
 
     <!-- Make sure this theme APK only shows up on appropriate devices. -->
     <uses-feature android:name="com.tmobile.software.themes" />
 
     <theme 
-        pluto:themeId="Holo Red"
+        pluto:themeId="ICE Red"
         pluto:styleId="@style/Red"
         pluto:name="@string/theme_name"
         pluto:preview="@drawable/preview"

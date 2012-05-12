@@ -3,7 +3,7 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := HoloRed
+LOCAL_PACKAGE_NAME := ICERed
 
 LOCAL_AAPT_FLAGS := -c mdpi,hdpi -x 10
 
