@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Red" parent="@android:style/Theme" />
+    <style name="Orange" parent="@android:style/Theme" />
 </resources>
